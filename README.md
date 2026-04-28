@@ -10,7 +10,7 @@
 > |----------|------|
 > | 📊 Airtable Base (Live) | [Patient Transport System](https://airtable.com/appRqOfqctHRK9vb2) |
 > | ⚡ Zapier Automation (Live) | [Zap Editor](https://zapier.com/editor/361516458) |
-> | 🎬 Demo Video | [Google Vids Preview](https://docs.google.com/videos/d/1eBCjyzKdTJb0EAkCSwcnMpW26fj5vNnuR4Ab-LwWJKY/edit) |
+| 🎬 Demo Video | [Watch Healthcare Automation Demo](https://docs.google.com/videos/d/1eBCjyzKdTJb0EAkCSwcnMpW26fj5vNnuR4Ab-LwWJKY/edit?usp=sharing) |LwWJKY/edit) |
 > | 👤 Upwork Profile | [Lokesh G.](https://www.upwork.com/freelancers/~0193eb101d151bad56) |
 >
 > ---
@@ -117,6 +117,20 @@
 > | Clean workflows for non-technical team | ✅ Done |
 > | Tested end-to-end with real data | ✅ Done |
 > | Public Zapier template | ✅ Done |
+>
+> ## 🎬 Demo Video
+>
+> > ### 📹 [Click Here to Watch: Healthcare Automation Demo](https://docs.google.com/videos/d/1eBCjyzKdTJb0EAkCSwcnMpW26fj5vNnuR4Ab-LwWJKY/edit?usp=sharing)
+>
+> AI-generated cinematic video showcasing the complete healthcare automation workflow:
+> - Acuity Scheduling → Airtable sync in real-time
+> - Patient records auto-created
+> - 24hr reminder system
+> - QuickBooks-ready invoice triggers
+>
+> Built with **Google Vids + Veo 3.1** AI video generation.
+>
+> ---
 >
 > ---
 >
